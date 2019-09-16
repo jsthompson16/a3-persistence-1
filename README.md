@@ -8,10 +8,7 @@ Click on the "View Current Orders" link to see the table of current orders, and 
 link to bring back up the form to order a new pizza.
 
 Most of the challenges I faced involved changing my code from using a local array to using lowdb to store its information. 
-I had trouble with editing and deleting information in particular, but got everything fixed *when running locally*. I don't understand why,
-but once I imported the project to Glitch, it won't let me create new users, it will only allow an already accepted username and password.
-The username and password to login with are 'arathorrn' and 'hello'. I would be happy to show this working properly on my own laptop, and don't think
-I should be penalized points because I have it working on my laptop, it was only upon importing to Glitch that it stopped working.
+I had trouble with editing and deleting information in particular, but got everything working properly.
 
 I used Passport and lowdb because they were the easiest to implement.
 
